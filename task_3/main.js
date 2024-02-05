@@ -8,7 +8,7 @@
 //     age: 29,
 //     hobbies: ["Кушать", "Спать", "Слово пацана"],
 //     contacts: {
-//         phone: [88005553255, 88005553255],
+//         phone: [88065553255, 88005553255],
 //         email: ["andrey@example.com", "andrey@example.com"],
 //         social: ["www.github.com", "www.github.com"],
 //     },
